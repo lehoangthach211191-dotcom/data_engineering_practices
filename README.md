@@ -28,13 +28,18 @@ This project includes hands-on implementation of the following concepts:
 
 - Git
 
-### 1. Clone the repository
+### 1. Fork the repository to your GitHub account
 
+- On teh GitHub repo, find and select 'Fork' on the top right conor
+
+- On the page 'Create a new fork', select 'create fork'
+
+- Clone teh repo to local
 ```bash
-git clone https://github.com/khanhnguyen-08/data_engineering_practices.git
-
-cd data_engineering_practices
+git clone <Replace with your repo URL>
 ```
+
+
 
 
 
